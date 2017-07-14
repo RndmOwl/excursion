@@ -1,0 +1,36 @@
+* {
+  font-family: Verdana;
+  background-color: Black;
+  text-align: center;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.white {
+  color: white;
+}
+
+.grey {
+  color: grey;
+}
+
+#copyright {
+  text-align: right;
+}
+
+.heading2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#title {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+#text {
+  font-size: 21px;
+}
